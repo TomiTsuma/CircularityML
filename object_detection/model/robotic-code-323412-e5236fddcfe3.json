@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "robotic-code-323412",
+  "private_key_id": "e5236fddcfe3853d36690bccca4232d6fa3646b5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCw614nlXE2LiwR\nQwJkt8yZ5aVy0XHs+qQyPSWG2bviwo82lU++OWCNngwdO/vUKfGeunRuzhgYll78\n5oiwGlCzL/gK4rHg403zwWNsI//FtAe1/TWCiCtketzgc1iYpfoEnL6TDo/vAg5e\nOxuocq1BtfpPHRbvBKqWz1TaAumQ36IPiOzNBUtdthQTLSAuIZk6z7dbSBDc+mxN\n15GEvqW5rSvWPPdc+VYbch24cu8mebdjP8cFTt5eGZPSJ/pnwkrt5xxBmq5F+6yq\n2s7UvTvrRFqnU1ypKsfguvZY5n10lu+/ZES7sgRUypHSdtAheVs8azE+nS1CVbBt\ne/VRMRqVAgMBAAECggEAJqc92nshkXtUAG96AeRQTN1qIORWtjZqkllerhA7Jwdn\n/75ufjqN+FLsBaUZ15hUZGALWTwo8pJD7ZA2k/cj44pa8JHn2CEBYnzBippw4tJ7\nDs1kGAFFLb5ULKu20x8MOV6/mmSHmOoDlp3mZI6tgNpP9mH+JTmJRcrFmJ4jRpXg\nPv/OGL9YGQuPtgkMzAV1Zzo/q9ZaLQdLpfcsSNn1Fgov3Mw8Wn1J433Y6fGXBiuY\npi0KUOhk/7ow2HkmKFsDxUiiSZfCRvFnVLqWKFY7ujamdBwpmHrmHOmSBMBWDJpo\n3ioFwxEWEfoSc8qXMBNdR+vMkOhSEf3B+ZvqSmE8sQKBgQDnvqkeXn0jskxVZE3b\nknWEsZuX/DJKYNBle/+WGmB7HMiZUPUINMu1O/G5n2rz+jFZPUlhn8HWj087JKLi\n5lgBK4tLLrsiOexduNWYbnOXes6L4dQvH4399ZfF+uInQOR5zJZMo8k++ZvMNbd3\n4DBvlkvqPwPHIjekvYYOzsTw6QKBgQDDb7k2gRmoIccmIQrlS0Zb8z21HXyY15a6\nRCfzQyMWJoLmuxhNS2yQhtOZ9j9hNB7WkTTCEHYMex9VMEBBZVeVn48XoQcv4uh6\ns6j1hKXqH59kJUW4WzLhij02h51tz+yc0zAEyS6Tr/HAlPFH9JL+4a89MCkXs+Yo\nFyjwD3ywzQKBgCJdHUrJjBjc+YC4DOuAPjjc9UuGNBbfYEeMKYwigSgATqadYJhE\n6+gF6YQy5XMkKGkpM1ZskBu2yHLmrdije21A/bi6Rzl+CVSkcdfWmQFfTn1jkUkj\njrSX1FehKiPT9Y0yDx9yMgdKkBWp6Xi3H7eMO9mSWocOxd2B1P0hIAbxAoGAN4Lp\ncdDTr80AWxUxmhV6g62gjmw0stkxp/CqBE/CjI0dy1nDOlk9GgQh4G5wbDS4uat+\n98xjK4JhUPomliyp5wbuRwDnILPr4sZbLHmkAs8+n9xyZD4LQsLYRj/Y+JMBmz3l\nOsbGIw7rtQ7ZRd3zTtBdzRx7346qxiJl72IGwdUCgYEAg/K36tPTEIirnPr8wob+\nHGwvLcNZhhPA4fSyLWN7p9slSIuoJQprSpkiQoN/kWeQj+XRd/HczCrTaLHdolyW\n2HlI5A/mmsCdJMj6oXBvN2hQyM0h5/4s2PbJf9w32bbUhV1K7NDzXVLy58UeRSzD\nSO7FeZSp7YsNmnzFCjwODnI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "circularity@robotic-code-323412.iam.gserviceaccount.com",
+  "client_id": "100471175938226164637",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/circularity%40robotic-code-323412.iam.gserviceaccount.com"
+}
